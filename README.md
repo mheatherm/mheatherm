@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mheatherm
 - 💞️ I’m interested in coding :))
-- 🌱 I’m currently learning Django, Python
+- 🌱 I’m currently learning flask, Django, Python
 - 📫 How to reach me: my ig == mheather__
