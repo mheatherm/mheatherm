@@ -1,2 +1,2 @@
 - 👋 Hi
-- 💞️ currently learning flask, Django, Python, java
+- 💞️ currently learning java
